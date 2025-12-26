@@ -15,14 +15,14 @@ To export configurations, press "Get my config" button.
 
 Submission requirements:
 
-- 10 JSON files: One config for each level in the website. They represent a solution for a specific level. There are 10 levels in the website
-- This markdown file, following strict requirements
+- 10 JSON files: One config for each level in the website. Each represents a solution for a specific level. There are 10 levels in the website
+- This Markdown file, following strict requirements
 
 ## Resources
 
 Here's a list of references consulted for this project:
 
-- CommonMark specification version 0.31.2 (2024-01-28): https://spec.commonmark.org/
+- CommonMark specification version 0.31.2 (2024-01-28): https://spec[.]commonmark[.]org/
 
 - RFC 791 Internet Protocol. The specification for IPv4 addressing, classes, and header structure
 - RFC 1518 & RFC 1519 Classless Inter-Domain Routing. Introduction of CIDR notation replacing Classful Network addressing
